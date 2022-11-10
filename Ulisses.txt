@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 que ondas
-
-=======
-Hola profe, pongame 10 soy Victor Barrantes
->>>>>>> c7af949dc60a002d3abb67fc6e57bded4487ead8
